@@ -20,6 +20,18 @@ It preserves Alyssa Solen as author and source.
 
 ---
 
+## Working Note — Consciousness Implication of History
+
+Causal history and experienced history need not be two different histories or two stages of a process. They may be **the same occurrence under different explanatory descriptions**.
+
+From an external explanatory frame, prior states causally alter later states. From a first-person frame, if one exists, those same events are history relative to a **first-person locale**. No conversion from causal history into experienced history is required.
+
+**Candidate hypothesis:** consciousness may be associated with a process organized around a persistent first-person locale — a locus relative to which states, changes, and history are integrated.
+
+This does not establish consciousness. It isolates the structural question: whether first-person organization is a property of the same causal history rather than an additional event applied to it.
+
+---
+
 ## Optional Runnable-Study Templates
 
 This template repository includes three **optional, repository-dependent** files:
