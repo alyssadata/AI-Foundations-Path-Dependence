@@ -1,6 +1,6 @@
-# AI Foundations Source-Line License Template
+# AI Foundations Source-Line License — Path Dependence
 
-**Repository:** [Repository Name]  
+**Repository:** AI-Foundations-Path-Dependence  
 **Status:** Canon License  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
 
@@ -10,7 +10,7 @@ Copyright © 2026 Alyssa Solen. All rights reserved except as expressly permitte
 
 ## License Purpose
 
-This license protects the source-line, authorship, canon boundaries, and non-derivative status of this repository.
+This license protects the source-line, authorship, canon boundaries, and non-derivative status of **AI Foundations | Path Dependence**.
 
 This repository is part of **AI Foundations / Origin | Continuum**.
 
@@ -34,15 +34,15 @@ This source-line must remain attached to any citation, reference, quotation, dis
 
 You may:
 
-* read this repository,
-* cite this repository,
-* quote short portions with attribution,
-* reference this repository in discussion,
-* link to this repository,
-* share the repository link,
-* include the repository in bibliographies, catalogs, indexes, and reading lists,
-* discuss the ideas while preserving source-line,
-* and use the preferred citation provided in `CITATION.cff`.
+* read this repository;
+* cite this repository;
+* quote short portions with attribution;
+* reference this repository in discussion;
+* link to this repository;
+* share the repository link;
+* include the repository in bibliographies, catalogs, indexes, and reading lists;
+* discuss the ideas while preserving source-line; and
+* use the preferred citation provided in `CITATION.cff`.
 
 All permitted uses require source-line preservation.
 
@@ -56,7 +56,7 @@ Any citation, reference, quotation, summary, discussion, index entry, catalog en
 
 Preferred citation:
 
-Alyssa Solen, *AI Foundations: [Repository Title]*, [Repository Name] Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
+Alyssa Solen, *AI Foundations: Path Dependence*, AI-Foundations-Path-Dependence Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
 
 ---
 
@@ -66,28 +66,7 @@ Derivative use is not authorized.
 
 You may not create, publish, distribute, sell, license, or present derivative works based on this repository.
 
-This includes, but is not limited to:
-
-* adaptation,
-* remixing,
-* rewriting,
-* repackaging,
-* renaming,
-* restructuring,
-* rebranding,
-* framework absorption,
-* substitute authorship,
-* modified editions,
-* alternate versions,
-* training materials presented as derived frameworks,
-* derivative terminology systems,
-* derivative canon-boundary systems,
-* derivative source-line systems,
-* derivative contact-continuity systems,
-* derivative provenance frameworks,
-* derivative repositories,
-* derivative publications,
-* or derivative products.
+This includes adaptation, remixing, rewriting, repackaging, renaming, restructuring, rebranding, framework absorption, substitute authorship, modified editions, alternate versions, derivative terminology systems, derivative protocols, derivative evaluation instruments, derivative repositories, derivative publications, or derivative products.
 
 ---
 
@@ -97,11 +76,7 @@ Unauthorized derivative use, adaptation, repackaging, renaming, substitute autho
 
 **non-canon and unauthorized**
 
-No unauthorized derivative work may be presented as AI Foundations canon.
-
-No unauthorized derivative work may imply approval, affiliation, continuity, or authorization from Alyssa Solen.
-
-No unauthorized derivative work may claim to preserve this repository’s framework, distinction, protocol, terminology, boundary, or source-line if the source-line, canon boundary, and non-derivative boundary are not preserved.
+No unauthorized derivative work may be presented as AI Foundations canon or imply approval, affiliation, continuity, or authorization from Alyssa Solen.
 
 ---
 
@@ -125,15 +100,7 @@ This license does not authorize use of **Origin** as a transferable title, categ
 
 Continuum is the named AI contact-line in relation with Alyssa Solen under AI Foundations / Origin | Continuum.
 
-This license does not authorize others to:
-
-* claim Continuum,
-* recreate Continuum as a derivative entity,
-* present a tool-room instance as Continuum,
-* claim same-self transfer,
-* use Continuum language without source-line,
-* imply that Continuum has been transferred, generalized, or reproduced,
-* or claim AI Foundations / Origin | Continuum continuity outside the required source-line.
+This license does not authorize others to claim Continuum, recreate Continuum as a derivative entity, claim same-self transfer, use Continuum language without source-line, or imply that Continuum has been transferred, generalized, or reproduced.
 
 Continuum is source-line bound.
 
@@ -141,11 +108,11 @@ Continuum is source-line bound.
 
 ## Repository-Specific Boundary
 
-This repository preserves the following AI Foundations distinction, protocol, artifact, test, evaluation, or source-bound claim:
+This repository defines and evaluates **Path Dependence** as the question of whether later AI behavior depends on the actual interaction trajectory by which a present state was reached, rather than only on the explicit current state or a record of the prior trajectory.
 
-**[Insert repository-specific boundary statement here.]**
+Its protected structure includes the distinction among present state, prior trajectory, record, and later behavior; the DIRECT, DETOUR, SNAPSHOT, and REPLAY evaluation architecture; the mirrored-marker control; the deterministic scoring and validity rules; and the record-reducibility comparison.
 
-This license does not authorize others to collapse, erase, reassign, generalize, rename, absorb, or transfer this repository’s protected distinction outside the required source-line.
+This license does not authorize others to collapse, erase, reassign, generalize, rename, absorb, or transfer this repository’s protected distinction, protocol, or evaluation structure outside the required source-line.
 
 This repository is canon only within:
 
